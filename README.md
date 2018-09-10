@@ -6,3 +6,5 @@ Links to the sourse:
 FlashText: https://github.com/vi3k6i5/flashtext
 
 pyStatParser: https://github.com/emilmont/pyStatParser
+
+stanfordcorenlp: https://github.com/Lynten/stanford-corenlp
